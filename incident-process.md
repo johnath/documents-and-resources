@@ -12,7 +12,7 @@ When an incident occurs, we ask that per the [Code of Conduct](https://github.co
 
 “If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
 
-This is easier said than done, but this is an alumni community of leaders. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situations is leadership 101.
+This is easier said than done, but this is a community of leaders. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situations is leadership 101.
 
 ## Escalation
 
