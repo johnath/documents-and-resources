@@ -42,10 +42,10 @@ In cases that result in account suspension, the individual suspended may appeal 
 
 ## Administrators
 
-The administrator(s) of the RSG Alum Slack as of June 25th, 2018:
+The administrators of the RSG Alum Slack as of June 25th, 2018:
 
-@johnath ([Johnathan Nightingale](mailto:johnathan@rawsignal.ca))
-@shappy ([Melissa Nightingale](mailto:melissa@rawsignal.ca))
+- @johnath ([Johnathan Nightingale](mailto:johnathan@rawsignal.ca))
+- @shappy ([Melissa Nightingale](mailto:melissa@rawsignal.ca))
 
 ## Version and Copyright
 
